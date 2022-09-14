@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "language": "‏لغة الموقع",
+    "flag": "https://www.countryflags.com/wp-content/uploads/saudi-arabia-flag-png-large.png"
+  },
+  {
+    "id": 2,
+    "language": "বাংলা",
+    "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYb-IArw93C10nxtjQ6UF33iOYh6xqqbI-U0KpzZA&s"
+  },
+  {
+    "id": 3,
+    "language": "ČEŠTINA",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/800px-Flag_of_the_Czech_Republic.svg.png?20110920204324"
+  },
+  {
+    "id": 4,
+    "language": "DEUTSCH",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png?20070926182838"
+  },
+  {
+    "id": 5,
+    "language": "ΕΛΛΗΝΙΚΑ",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Greece.png"
+  },
+  {
+    "id": 6,
+    "language": "ENGLISH",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "id": 7,
+    "language": "ESPAÑOL",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png"
+  },
+  {
+    "id": 8,
+    "language": "FRANÇAIS",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"
+  },
+  {
+    "id": 9,
+    "language": "हिन्दी",
+    "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYb-IArw93C10nxtjQ6UF33iOYh6xqqbI-U0KpzZA&s"
+  },
+  {
+    "id": 10,
+    "language": "MAGYAR",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Hungary.png"
+  },
+  {
+    "id": 11,
+    "language": "INDONESIA",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2560px-Flag_of_Indonesia.svg.png"
+  },
+  {
+    "id": 12,
+    "language": "ITALIANO",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"
+  },
+  {
+    "id": 13,
+    "language": "日本語",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png"
+  },
+  {
+    "id": 14,
+    "language": "한국어",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_South_Korea.png"
+  },
+  {
+    "id": 15,
+    "language": "NEDERLANDS",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Flag_of_the_Netherlands.png"
+  },
+  {
+    "id": 16,
+    "language": "POLSKI",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/2560px-Flag_of_Poland.svg.png"
+  },
+  {
+    "id": 17,
+    "language": "PORTUGUÊS",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/320px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "id": 18,
+    "language": "ROMÂNĂ",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png"
+  },
+  {
+    "id": 19,
+    "language": "РУССКИЙ",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Russia.png"
+  },
+  {
+    "id": 20,
+    "language": "ภาษาไทย",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/2560px-Flag_of_Thailand.svg.png"
+  },
+  {
+    "id": 21,
+    "language": "TAGALOG",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/2560px-Flag_of_the_Philippines.svg.png"
+  },
+  {
+    "id": 22,
+    "language": "TÜRKÇE",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png?20210808085121"
+  },
+  {
+    "id": 23,
+    "language": "УКРАЇНСЬКА",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Ukraine.png/640px-Flag_of_Ukraine.png"
+  },
+  {
+    "id": 24,
+    "language": "TIẾNG VIỆT",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/2560px-Flag_of_Vietnam.svg.png"
+  },
+  {
+    "id": 25,
+    "language": "中文",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png"
+  }
+]

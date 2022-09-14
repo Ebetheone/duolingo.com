@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "About us",
+    "submenu": [
+      { "title": "Courses" },
+      { "title": "Mission" },
+      { "title": "Approach" },
+      { "title": "Efficacy" },
+      { "title": "Team" },
+      { "title": "Research" },
+      { "title": "Incubator" },
+      { "title": "Careers" },
+      { "title": "Brand guidelines" },
+      { "title": "Store" },
+      { "title": "Press" },
+      { "title": "Investors" },
+      { "title": "Contact us" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Products",
+    "submenu": [
+      { "title": "Duolingo" },
+      { "title": "Duolingo for Schools" },
+      { "title": "Duolingo English Test" },
+      { "title": "Duolingo ABC" },
+      { "title": "Duolingo Events" },
+      { "title": "Duolingo Math" },
+      { "title": "Podcast" },
+      { "title": "Stories" },
+      { "title": "Duolingo for Business" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Apps",
+    "submenu": [
+      { "title": "Duolingo for Android" },
+      { "title": "Duolingo for iOS" },
+      { "title": "Duolingo ABC (iOS)" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Help and support",
+    "submenu": [
+      { "title": "Duolingo FAQs" },
+      { "title": "Schools FAQs" },
+      { "title": "Duolingo English Test FAQs" },
+      { "title": "Status" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Privacy and terms",
+    "submenu": [
+      { "title": "Community guidelines" },
+      { "title": "Terms" },
+      { "title": "Privacy" },
+      {
+        "title": "Respecting your do not sell my personal information rights"
+      },
+      {
+        "title": "Social"
+      },
+      {
+        "title": "Blog"
+      },
+      {
+        "title": "Instagram"
+      },
+      {
+        "title": "Facebook"
+      },
+      {
+        "title": "Twitter"
+      },
+      {
+        "title": "YouTube"
+      }
+    ]
+  }
+]
