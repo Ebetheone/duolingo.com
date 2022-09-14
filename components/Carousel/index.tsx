@@ -1,6 +1,6 @@
 import React from "react";
-import Carousel from "better-react-carousel";
 import Data from "../../data/data2.json";
+import Carousel from "better-react-carousel";
 
 const CarouselItem = () => {
   return (

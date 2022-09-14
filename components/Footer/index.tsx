@@ -4,7 +4,6 @@ import Language from "../../data/data.json";
 
 const Footer = () => {
   const [check, setCheck] = useState<number>(6);
-  console.log(check);
   return (
     <div className="w-[55%] mx-auto h-full">
       <div className="flex w-[63%] mx-auto justify-between items-center py-28">
