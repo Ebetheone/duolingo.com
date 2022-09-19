@@ -6,7 +6,7 @@ const Header = () => {
   const [show, setShow] = useState<boolean>(false);
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      if (window.scrollY > 1050) {
+      if (window.scrollY > 1100) {
         setShow(true);
       } else {
         setShow(false);
@@ -21,9 +21,9 @@ const Header = () => {
           alt="logo"
           className="h-9 w-auto object-cover cursor-pointer"
         />
-        <div className="flex items-center gap-5">
+        <div className="flex items-center gap-5 h-full">
           <div
-            className="flex h-full items-center relative gap-[5px]"
+            className="flex h-full items-center cursor-pointer relative gap-[5px]"
             onMouseEnter={() => setOpen(true)}
             onMouseLeave={() => setOpen(false)}
           >
@@ -47,11 +47,15 @@ const Header = () => {
           )}
         </div>
         {open && (
-          <div className="absolute w-[500px] h-[full] bg-[rgb(245,245,245)] rounded-[12px] top-[60px] right-[15%] z-100">
+          <div
+            className="absolute w-[500px] block bg-[rgb(245,245,245)] rounded-[12px] top-[60px] right-[15%]"
+            onMouseEnter={() => setOpen(true)}
+            onMouseLeave={() => setOpen(false)}
+          >
             <div className="grid grid-cols-2 pl-[60px] py-[30px] gap-[25px]">
               {Data.map((item) => (
                 <div
-                  className="flex gap-[10px] items-center rounded-[5px] hover:bg-[rgb(200,200,200)]"
+                  className="flex gap-[10px] items-center rounded-[5px] cursor-pointer"
                   key={item.id}
                 >
                   <img
