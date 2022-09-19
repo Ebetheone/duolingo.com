@@ -5,8 +5,8 @@ import Carousel from "better-react-carousel";
 const CarouselItem = () => {
   return (
     <div className="bg-[#0a4a82] w-full h-[74px] flex items-center m-0 mt-60">
-      <div className="box-border w-[50%] mx-auto">
-        <Carousel cols={5} rows={1} gap={10} loop autoplay={3000}>
+      <div className="box-border w-[65%] mx-auto">
+        <Carousel cols={6} rows={1} gap={10} loop autoplay={3000}>
           {Data.map((item, index) => (
             <Carousel.Item key={index}>
               <div className="flex items-center justify-center gap-[10px] m-0 cursor-pointer">
